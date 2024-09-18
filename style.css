@@ -1,7 +1,6 @@
-.body {
+.font {
   font-family: 'facinate inline';
-  width: 100%;
-  hieght: 100%;
+  font-size: 16px;
 }
 
 .block {
