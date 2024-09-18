@@ -1,5 +1,12 @@
 html {
-  font-family: Fascinate Inline;
   width: 100%;
   hieght: 100%;
+}
+
+.ugly1 {
+  border: 3px inset rgb(235,235,235);
+  border: 3px outset rgb(223,223,223);
+  background-color: rgb(175,175,175);
+  padding: 7px 15px;
+  margin: 15px 75px;
 }
