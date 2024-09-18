@@ -6,6 +6,6 @@
   <title>Terminal</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
-  <a href="index.html>Index</a>
+  <a href="index.html">Index</a>
 </html>
 # threedots-wt
