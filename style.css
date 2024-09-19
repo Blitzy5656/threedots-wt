@@ -31,7 +31,7 @@ body {
 }
 
 .glow { /* from Elijah Millikan on Sep 18 5:15PM */
-  color: #000;
+  color: #fff;
   text-align: center;
   -webkit-animation: glow 1s ease-in-out infinite alternate;
   -moz-animation: glow 1s ease-in-out infinite alternate;
