@@ -1,6 +1,6 @@
 html {
   color: black;
-  font-family: 'facinate inline';
+  font-family: 'fascinate inline';
   font-size: 16px;
   background-image: linear-gradient(180deg, rgba(112,112,112,0.1), rgba(255,255,255,0));
   background-attachment: fixed;
@@ -14,6 +14,7 @@ html {
   border: 3px inset rgb(235,235,235);
   border: 3px outset rgb(223,223,223);
   background-color: rgb(175,175,175);
+  font-family: 'fascinate inline';
   padding: 7px 15px;
   margin: 15px 75px;
 }
